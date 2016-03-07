@@ -1,0 +1,20 @@
+ba salam khedmat ostad mohtaram aghaye doctor zoroofi
+man project final dars ra shabih sazi masjed daneshgah tehran dar nazar gerftam
+vali ala raghm vaght yek haftehe ke baraye an sarf kardam  be ellat vaght kam 
+natavanestam an ra kamel konam  in porject ke baraye shoma ersal kardam faghat shabih sazy
+ghesamt bironi va hayet masjed ast 
+
+braye harekat dar mohit masjed az kilid haye jahaty estefadeh konid
+barye bala va payyen raftan az kliid haye U va D estefadeh konid
+ba estefadeh az kilid haye Page Up va Page Down mitavanid sare dorbin ra bala va payyen bebraid
+
+dar ebteda ke proje ra run mikonid ehtemalan bayed baraye load shodan aks ha chand sanye sabr konid
+esm in project be khater in lesson10 ast ke barye load kardne aks az yek library internet 
+estefadeh kardam va natavanestam tanzimat az ra dar project digary anjam daham;
+
+mohit kea Open GL ast va baraye ejra neyze be VC++ 6.0 darad albate agar file exe lesson10.exe ra ejra konid 
+proje bedon niyaze be hich narm afzari run mishavad,
+
+ba tashakkor
+seyyed hesam oddin mohammad moradi
+810185312

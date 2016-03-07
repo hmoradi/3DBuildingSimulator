@@ -1,0 +1,95 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: lesson10 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\HBF5C~1.MOR\LOCALS~1\Temp\RSP269.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/lesson10.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"O:\Lesson10\backup.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\HBF5C~1.MOR\LOCALS~1\Temp\RSP269.tmp" 
+Creating temporary file "C:\DOCUME~1\HBF5C~1.MOR\LOCALS~1\Temp\RSP26A.tmp" with contents
+[
+Winmm.lib opengl32.lib glu32.lib glaux.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/lesson10.pdb" /debug /machine:I386 /out:"Debug/lesson10.exe" /pdbtype:sept 
+.\Debug\backup.obj
+]
+Creating command line "link.exe @C:\DOCUME~1\HBF5C~1.MOR\LOCALS~1\Temp\RSP26A.tmp"
+<h3>Output Window</h3>
+Compiling...
+backup.cpp
+o:\lesson10\backup.cpp(36) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(64) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(64) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(64) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(456) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(456) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(456) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(457) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(457) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(457) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(458) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(458) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(463) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(463) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(463) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(500) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(510) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(521) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(532) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(538) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(547) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(552) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(561) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(565) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(574) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(578) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(587) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(592) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(601) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(605) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(614) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(645) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(654) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(754) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(772) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(786) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(798) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(808) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(809) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(817) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(819) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(820) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(828) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(831) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(842) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(894) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(903) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(905) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(914) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(916) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(925) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(929) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(940) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(971) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(981) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(990) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(1000) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+o:\lesson10\backup.cpp(465) : warning C4101: 'v_m' : unreferenced local variable
+o:\lesson10\backup.cpp(465) : warning C4101: 'u_m' : unreferenced local variable
+o:\lesson10\backup.cpp(465) : warning C4101: 'z_m' : unreferenced local variable
+o:\lesson10\backup.cpp(465) : warning C4101: 'y_m' : unreferenced local variable
+o:\lesson10\backup.cpp(465) : warning C4101: 'x_m' : unreferenced local variable
+o:\lesson10\backup.cpp(1388) : warning C4305: '+=' : truncation from 'const double' to 'float'
+Linking...
+
+
+
+<h3>Results</h3>
+lesson10.exe - 0 error(s), 63 warning(s)
+</pre>
+</body>
+</html>
