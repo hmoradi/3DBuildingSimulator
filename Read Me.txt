@@ -1,0 +1,3 @@
+3D Simulation of a building using OpenGL library under C++.
+The code has been developed with Visual Studio 2010. 
+
